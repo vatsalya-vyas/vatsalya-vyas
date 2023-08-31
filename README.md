@@ -43,13 +43,11 @@
 ###
 ---
 # 📊 GitHub Stats:
-
-<img align="right" src="https://media.tenor.com/lZu4L6XT0fsAAAAd/monkeytype-monkey.gif" alt="monkeytype" width="350" height="570">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-vyas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=vatsalya-vyas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalya-vyas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-vyas&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="400" height="200"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsalya-vyas&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400" height="200"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalya-vyas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400" height="200">
+</div>
 
 ---
 # [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vatsalya) 
