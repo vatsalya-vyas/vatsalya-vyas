@@ -43,7 +43,7 @@
 ###
 ---
 # 📊 GitHub Stats:
-<img align="right" src="https://media.tenor.com/lZu4L6XT0fsAAAAd/monkeytype-monkey.gif" alt="monkeytype" width="400" height="570">
+<img align="right" src="https://media.tenor.com/lZu4L6XT0fsAAAAd/monkeytype-monkey.gif" alt="monkeytype" width="350" height="570">
 
 ![](https://github-readme-stats.vercel.app/api?username=vatsalya-vyas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-vyas&theme=dark&hide_border=false)<br/>
