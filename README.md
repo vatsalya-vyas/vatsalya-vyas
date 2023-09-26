@@ -1,4 +1,4 @@
-<h2 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/vatsalya-vyas-83a118266/">Vatsalya </a><img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="28">
+<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/vatsalya-vyas-83a118266/">Vatsalya </a><img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="30">
 <p></p>
 <p align="center">
   <a href="https://git.io/typing-svg">
