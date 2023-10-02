@@ -38,6 +38,12 @@
 
 ---
 
+# <img src="https://www.holopin.io/images/logo.png" alt="Holopin Logo" width="27" /> Holopin badges:
+
+[![An image of @vatsalyavyas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vatsalyavyas)](https://holopin.io/@vatsalyavyas)
+
+---
+
 # 📊 GitHub Stats:
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> <br>
@@ -61,6 +67,8 @@
   </table>
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 
 ---
 
