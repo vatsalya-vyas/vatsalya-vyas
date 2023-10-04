@@ -12,7 +12,7 @@
 
 🧑‍💻 As a tech enthusiast, I love to learn new things<br><br>🌱 I’m currently learning JavaScript 
 
-# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Connect with me:
+# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Connect With Me:
 
 [![Twitter Badge](https://img.shields.io/badge/-@vatsalyavyas_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vatsalyavyas_)](https://twitter.com/vatsalyavyas_) 
 [![Linkedin Badge](https://img.shields.io/badge/-vatsalyavyas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vatsalya-vyas-83a118266/)](https://www.linkedin.com/in/vatsalya-vyas-83a118266/)
@@ -38,7 +38,7 @@
 
 ---
 
-# <img src="https://www.holopin.io/images/logo.png" alt="Holopin Logo" width="27" /> Holopin badges:
+# <img src="https://www.holopin.io/images/logo.png" alt="Holopin Logo" width="27" /> Holopin Badges:
 
 [![An image of @vatsalyavyas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vatsalyavyas)](https://holopin.io/@vatsalyavyas)
 
