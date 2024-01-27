@@ -10,7 +10,7 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> About Me:
 
-🧑‍💻 As a tech enthusiast, I love to learn new things<br><br>🌱 I’m currently learning JavaScript 
+🧑‍💻 As a tech enthusiast, I love to learn new things<br><br>🌱 I’m currently learning MERN stack
 
 # <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Connect With Me:
 
